@@ -4,9 +4,9 @@ Dataset ini memiliki 13 file csv yang akan dieksplorasi dan analisa satu persatu
 
 ## [games.csv](https://github.com/hanru789/NFL-Big-Data-Bowl-2025/blob/main/about-games.ipynb)
 
-## player_play.csv
+## [players.csv](https://github.com/hanru789/NFL-Big-Data-Bowl-2025/blob/main/about-players.ipynb)
 
-## players.csv
+## player_play.csv
 
 ## plays.csv
 
